@@ -1,1 +1,1 @@
-(https://simmigonflagg.github.io/terms)
+(https://simmigon-flagg.github.io/terms)
